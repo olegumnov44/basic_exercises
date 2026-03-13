@@ -12,7 +12,8 @@ students = [
     {'first_name': 'Маша'},
     {'first_name': 'Петя'},
 ]
-# ???
+for value in students.values():
+    
 
 
 # Задание 2
